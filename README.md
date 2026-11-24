@@ -1,4 +1,4 @@
-# pats-harini-e2
+# patp-harini-e2
 # PATP-Experiment-2-Data-Visualization-Using-Matplotlib-and-Seaborn
 
 ## Aim
